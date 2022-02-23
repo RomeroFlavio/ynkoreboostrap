@@ -1,0 +1,19 @@
+/*IMG achicadas temporalmente*/
+
+.foto{
+    width: 300px!important;
+    margin: auto;
+}
+
+.tama_carru{
+    width: 50%;
+    
+}
+
+.fondovich{
+    background-color: aqua;
+}
+
+.color_boton{
+    color: aqua;
+}
