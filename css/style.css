@@ -33,18 +33,14 @@
 .sin_color{
     background-color:rgba(255, 255, 255, 0)!important;
 }
+
+.chicle{
+    background: rgba(210, 106, 241, 0.68);
+}
 /* COLORES */
 
 
-/* MAIN */
-.color_boton{
-    background: rgba(210, 106, 241, 0.680);
-}
-
-.aa{
-    text-align: center;
-}
-
+/* ESTILO NAV */
 .estilo{
     padding: 14px 25px ;
     border-radius: 9px;
@@ -63,7 +59,7 @@
     transform: scale(0.97);
     box-shadow: 7px 5px 25px -10px #000000;
    }
-/* MAIN */
+/* ESTILO NAV */
 
 
 /* MEDIA MOBILE */
