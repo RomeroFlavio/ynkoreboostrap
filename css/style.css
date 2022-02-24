@@ -42,8 +42,8 @@
 
 /* ESTILO NAV */
 .estilo{
-    padding: 14px 25px ;
-    border-radius: 9px;
+    padding: 14px 25px!important;
+    border-radius: 9px!important;
     background: #cd75e7;
     border: none;
     text-align: center;
@@ -53,12 +53,12 @@
 
 .estilo:hover {
     box-shadow: 7px 5px 25px 1px #000000;
-   }
+}
 
 .estilo:active {
     transform: scale(0.97);
     box-shadow: 7px 5px 25px -10px #000000;
-   }
+}
 /* ESTILO NAV */
 
 
