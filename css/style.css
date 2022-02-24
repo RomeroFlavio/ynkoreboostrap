@@ -74,7 +74,13 @@
 }
 
 .posicion{
-    
+    display: flex;
+    flex-direction: column;
+}
+
+.media{
+    width: 50%;
+    margin: auto;
 }
 
 }
@@ -93,6 +99,16 @@
     
 .color_boton{
     background-color:rgba(255, 255, 255, 0)
+}
+
+.posicion{
+    display: flex;
+    flex-direction: column;
+}
+
+.media{
+    width: 50%;
+    margin: auto;
 }
      
 }
