@@ -93,10 +93,7 @@
         position: relative;
     }
     
-    .posicion{
-        display: flex;
-        flex-direction: column;
-    }
+
     
     .caja2{
         order: 3;
@@ -136,8 +133,8 @@
 }
 
 .tam_img{
-    width: 250px;
-    height: 275px;
+    width: 210px;
+    height: 235px;
 }
 
 /*IMG achicadas temporalmente*/
