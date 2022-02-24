@@ -78,38 +78,31 @@
     background-color:rgba(255, 255, 255, 0)
 }
 
-.colum_media{
-    display: flex;
-    flex-direction: column;
-}
-
 }
 /* MEDIA MOBILE */
 
 /* MEDIA */
 @media only screen and (min-width: 491px) and (max-width: 991px){
 
-    .no_sticky{
-        position: relative;
-    }
-    
+.no_sticky{
+     position: relative;
+}
 
+.posicion{
+    display: flex;
+    flex-direction: column;
+}
     
-    .caja2{
-        order: 3;
-    }
+.caja2{
+    order: 3;
+}
     
-    .color_boton{
-        background-color:rgba(255, 255, 255, 0)
-    }
-    
-    .colum_media{
-        display: flex;
-        flex-direction: column;
-    }
-    
-    }
-    /* MEDIA */
+.color_boton{
+    background-color:rgba(255, 255, 255, 0)
+}
+     
+}
+/* MEDIA */
 
     /* No requiere de @media para 1024 */
 
