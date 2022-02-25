@@ -134,6 +134,8 @@
 .tam_img{
     width: 210px;
     height: 235px;
+    margin: auto;
+    padding: auto;
 }
 
 /*IMG achicadas temporalmente*/
