@@ -1,5 +1,6 @@
 /* FONDO */
 .fondo{
+    width: 100%;
     background-image: url("../assets/images/logo/fondo_index.png");
     background-attachment: fixed;
     background-position: center;
@@ -10,7 +11,7 @@
 
 /* SEPARACIÓN Y BORDES*/
 .marpad{
-    margin: 1%;
+    margin: 1% 0% 1% 0%;
     padding: 1%;
 }
 
@@ -19,7 +20,7 @@
 }
 
 .mar{
-    margin: 1%;
+    margin: 1% 0% 1% 0%;
 }
 /* SEPARACIÓN Y BORDES*/
 
@@ -39,8 +40,9 @@
 
 /* ESTILO NAV */
 .estilo{
-    padding: 14px 25px!important;
+    width: 10px 21px!important;
     border-radius: 9px!important;
+    margin: 0% 1% 0% 1%;
     background: #cd75e7;
     border: none;
     text-align: center;
@@ -139,3 +141,7 @@
 }
 
 /*IMG achicadas temporalmente*/
+
+.testing{
+    background-color: yellow;
+}
